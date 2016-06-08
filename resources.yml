@@ -1,0 +1,8 @@
+resources:
+  - name: vtest9
+    type: image
+    integration: ship4-docker #your account integration
+    source:
+      name: "shiphitchcock4/hitchcock4_sample_node"
+      isPull: true
+      tag: latest
