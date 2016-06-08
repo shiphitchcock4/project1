@@ -1,5 +1,5 @@
 jobs:
-  - name: project1
+  - name: vtest9
     type: manifest
     steps:
       - GET vtest9
